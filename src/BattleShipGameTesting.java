@@ -1,5 +1,6 @@
 import java.util.*;
 
+// This is my second attempt to update something online
 
 public class BattleShipGameTesting{
     public static final Scanner input = new Scanner(System.in);
